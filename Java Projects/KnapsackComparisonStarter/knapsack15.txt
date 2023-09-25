@@ -1,0 +1,16 @@
+93
+101 14 Item 1
+74 11 Item 2
+109 11 Item 3
+119 10 Item 4
+103 13 Item 5
+135 9 Item 6
+68 12 Item 7
+59 15 Item 8
+122 18 Item 9
+118 11 Item 10
+83 13 Item 11
+110 13 Item 12
+80 11 Item 13
+149 14 Item 14
+111 13 Item 15
