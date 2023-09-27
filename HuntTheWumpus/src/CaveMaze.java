@@ -4,7 +4,7 @@ import java.io.File;
 
 /**
  * Incomplete class that models a maze of caves for the "Hunt the Wumpus" game.
- *   @author Catie Baker
+ *   @author Catie Baker and John Roeder
  */
 public class CaveMaze {
   private Cave currentCave;
