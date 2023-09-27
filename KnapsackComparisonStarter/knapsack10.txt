@@ -1,0 +1,11 @@
+21
+119 16 Item 1
+117 12 Item 2
+64 10 Item 3
+114 13 Item 4
+109 9 Item 5
+98 12 Item 6
+100 16 Item 7
+113 14 Item 8
+97 9 Item 9
+111 4 Item 10

@@ -1,0 +1,11 @@
+64
+107 11 Item 1
+105 15 Item 2
+128 13 Item 3
+65 12 Item 4
+131 20 Item 5
+107 15 Item 6
+127 13 Item 7
+85 13 Item 8
+78 18 Item 9
+120 16 Item 10

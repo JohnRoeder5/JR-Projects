@@ -1,0 +1,24 @@
+141
+98 15 Item 1
+150 9 Item 2
+40 14 Item 3
+70 17 Item 4
+71 12 Item 5
+113 12 Item 6
+82 19 Item 7
+117 10 Item 8
+123 14 Item 9
+95 14 Item 10
+100 15 Item 11
+143 14 Item 12
+141 15 Item 13
+96 16 Item 14
+123 12 Item 15
+127 15 Item 16
+84 11 Item 17
+106 10 Item 18
+69 12 Item 19
+63 12 Item 20
+
+
+0001110001110111
