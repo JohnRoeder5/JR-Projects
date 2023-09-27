@@ -1,0 +1,142 @@
+Content notfound notfound notfound notfound Content identified by location
+Content notfound notfound error_paid notfound Plain language is not used
+Content notfound notfound notfound notfound Content is not in correct reading order in source code
+Content notfound notfound notfound notfound Content is not organised into well-defined groups or chunks, using headings, lists, and other visual mechanisms
+Content notfound notfound error_paid notfound First instance of abbreviation not expanded
+Layout notfound notfound notfound notfound Wide page forces users to scroll horizontally
+Colour/Contrast notfound notfound notfound manual Colour alone is used to convey content
+Colour/Contrast error error error_paid notfound Small text does not have a contrast ratio of at least 4.5:1 so does not meet AA
+Colour/Contrast error error error_paid notfound Large text does not have a contrast ratio of at least 3:1 so does not meet AA
+Colour/Contrast error error error_paid notfound Small text does not have a contrast ratio of at least 7:1 so does not meet AAA
+Colour/Contrast error error error_paid notfound Large text does not have a contrast ratio of at least 4.5:1 so does not meet AAA
+Colour/Contrast notfound notfound notfound notfound Focus not visible
+Typography notfound notfound notfound notfound Inadequate line height used
+Typography notfound notfound notfound warning All caps text found
+Typography notfound error error warning Blink element found
+Typography notfound notfound notfound warning Italics used on long sections of text
+Typography notfound error error notfound Marquee element found
+Typography notfound notfound notfound notfound Long lines of text
+Typography notfound warning error error Very small text found
+Typography notfound warning notfound notfound Justified text found
+Language notfound notfound notfound notfound Text language changed without required change in direction
+Language error notfound error error html element has an empty lang attribute
+Language notfound notfound notfound notfound lang attribute not used to identify change of language
+Language notfound notfound notfound notfound Text language is in the wrong direction
+Language notfound notfound error notfound html element has an invalid value in the lang attribute
+Language notfound manual error notfound lang attribute used to identify change of language, but with invalid value
+Language error error error error html element is missing a lang attribute
+Language notfound notfound notfound notfound html element has lang attribute set to wrong language
+Language notfound notfound notfound notfound lang attribute used to identify change of language, but with wrong language
+Title notfound notfound notfound notfound Inappropriate page title
+Title error error error error Empty page title
+Title error error error error Missing page title
+Headings notfound error error error Empty heading
+Headings notfound warning error error Missing H1
+Headings notfound notfound notfound notfound Text formatting used instead of an actual heading
+Headings notfound warning notfound error Headings not structured in a hierarchical manner
+Lists notfound notfound error notfound LI element with no parent
+Lists notfound notfound notfound notfound List not marked up as a list
+Lists notfound notfound error notfound DT or DD elements that are not contained within a DL element
+Lists notfound notfound error notfound Improperly nested lists
+Tables notfound manual error notfound Table with column headers and double row headers
+Tables notfound manual notfound notfound Table has no scope attributes
+Tables notfound notfound error notfound Table nested within table header
+Tables notfound notfound error notfound Table nested within table
+Tables error manual error error Table has no table headings
+Tables notfound notfound notfound notfound Table with inconsistent numbers of columns in rows
+Tables notfound notfound notfound notfound Table that only has TH elements in it
+Tables notfound manual notfound error Table is missing a caption
+Tables notfound identified error notfound Table used for layout
+Tables notfound error notfound notfound Table has an empty table header
+Tables notfound notfound notfound notfound Table with some empty cells
+Images notfound notfound notfound notfound Image has alt and title that are different
+Images notfound notfound error notfound Image with presentation role has non-empty alt
+Images error error error error Image with no alt attribute
+Images notfound notfound notfound manual Background image that conveys information does not have a text alternative
+Images notfound notfound error error Image has empty alt and non-empty title
+Images notfound notfound error notfound A distraction is present, an animated gif
+Images notfound manual notfound manual Image that conveys information has an empty alt attribute
+Images notfound manual notfound manual Image that conveys information has inappropriate alt text
+Images notfound warning error manual Image alt attribute contains image file name
+Images notfound manual notfound manual Image with partial text alternative
+Multimedia notfound manual notfound error Embedded video file is missing text alternative
+Multimedia notfound notfound notfound notfound Flashing content doesn't have warning
+Multimedia notfound manual notfound error Embedded audio file is missing text alternative
+Links error error error error Image link with no alternative text
+Links notfound notfound notfound manual Link to javascript, invalid hypertext reference
+Links notfound warning error notfound Uninformative link text
+Links notfound notfound error_paid warning Link launches new window with no warning
+Links notfound notfound notfound notfound Links not separated by printable characters
+Links notfound warning notfound notfound Link text with identical title
+Links notfound warning notfound notfound Links to a sound file, no transcript
+Links notfound notfound notfound notfound Identifying links by colour alone
+Links notfound warning notfound notfound Link to PDF does not include information on file format and file size
+Links notfound notfound notfound manual Link to #, invalid hypertext reference
+Links error error error error Blank link text
+Links notfound notfound notfound notfound Links with the same text go to different pages
+Links error notfound notfound notfound Link text does not make sense out of context
+Links notfound warning error notfound Adjacent links going to the same destination
+Links error notfound notfound notfound Link contains only a full stop
+Links notfound warning error notfound Image link alt text repeats text in the link
+Links notfound notfound notfound notfound Link not clearly identifiable and distinguishable from surrounding text
+Links notfound warning notfound notfound Link to a multimedia file, no transcript
+Links error warning error error Non-specific link text
+Links notfound notfound notfound notfound Link to an image, no text alternative
+Buttons error error error error Image button has no alt attribute
+Buttons error error error identified Empty button
+Buttons notfound manual notfound manual Uninformative alt attribute value on image button
+Buttons notfound error error error Empty alt attribute on image button
+Forms notfound notfound notfound manual Errors identified by colour only
+Forms notfound error error error Labels missing when they would look clumsy for some form controls
+Forms notfound notfound notfound notfound Error messages - no suggestion for corrections given, e.g. required format
+Forms notfound notfound notfound notfound Left aligned form labels with too much white space
+Forms notfound warning error error Group of radio buttons not enclosed in a fieldset
+Forms error error error error Form element has no label
+Forms notfound warning notfound notfound Fieldset without a legend
+Forms notfound notfound notfound identified Empty legend
+Forms error error error error Label element with for= attribute but not matching id= attribute of form control
+Forms notfound warning notfound error Group of check boxes not enclosed in a fieldset
+Forms notfound error error error Empty label found
+Forms notfound error notfound notfound Two unique labels, but identical for= attributes
+Forms warning error error error Errors identified with a poor colour contrast
+Forms notfound notfound error notfound Non-unique field label found
+Forms error error error error Missing labels in checkboxes
+Forms notfound notfound notfound notfound Field hint not associated with input
+Forms error error error error Placeholder no label
+Forms notfound notfound notfound notfound Errors are not identified
+Forms notfound notfound notfound notfound Form control that changes context without warning
+Navigation notfound notfound notfound notfound Inadequately-sized clickable targets found
+Keyboard notfound notfound notfound notfound Alert shows for a short time
+Keyboard notfound notfound notfound notfound Lightbox - close button doesn't receive focus
+Keyboard notfound notfound notfound notfound Focus order in wrong order
+Keyboard error warning notfound warning Tabindex greater than 0
+Keyboard notfound notfound error error Keyboard focus is not indicated visually
+Keyboard notfound manual notfound notfound Keyboard focus assigned to a non focusable element using tabindex=0
+Keyboard notfound notfound notfound notfound Concertina items don't get keyboard focus
+Keyboard notfound notfound notfound notfound Keyboard trap
+Keyboard notfound notfound notfound notfound Dropdown navigation - only the top level items receive focus
+Keyboard notfound notfound notfound notfound Lightbox - ESC key doesn't close the lightbox
+Keyboard notfound notfound notfound error Link with a role=button does not work with space bar
+Keyboard notfound notfound notfound notfound Tooltips don't receive keyboard focus
+Keyboard notfound warning notfound notfound Accesskey attribute used
+Keyboard notfound notfound notfound notfound Lightbox - focus is not moved immediately to lightbox
+Keyboard notfound notfound notfound notfound Lightbox - focus is not retained within the lightbox
+Keyboard notfound notfound notfound notfound Fake button is not keyboard accessible
+Frames notfound notfound error error iframe is missing a title attribute
+Frames notfound notfound notfound notfound iframe title attribute does not describe the content or purpose of the iframe
+CSS notfound notfound notfound notfound Content is not readable and functional when text is increased
+CSS notfound notfound error notfound Non-decorative content inserted using CSS
+CSS notfound notfound notfound notfound visibility:hidden used to visually hide content when it should be available to screenreader
+CSS notfound notfound notfound notfound display:none used to visually hide content when it should be available to screenreader
+CSS notfound notfound notfound notfound Page zoom - boxes that don't expand with the text
+HTML notfound notfound error error Duplicate id
+HTML notfound notfound notfound notfound Article element used to mark-up an element that's not an article/blog post etc.
+HTML notfound notfound notfound identified Empty paragraph
+HTML notfound notfound error warning Deprecated center element
+HTML error notfound error error Invalid ARIA role names
+HTML notfound notfound notfound notfound Object not embedded accessibly - wmode parameter not set to window
+HTML notfound identified notfound notfound Spacer image found
+HTML notfound notfound notfound notfound Inline style adds colour
+HTML notfound notfound error notfound Start and close tags don't match
+HTML notfound notfound notfound notfound PRE element without CODE element inside it
+HTML notfound notfound error warning Deprecated font element

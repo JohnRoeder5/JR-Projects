@@ -1,0 +1,14 @@
+5
+Is it longer than 2 hours?
+Is it animated?
+Is it part of a series?
+Was it made before 2010?
+Is it a comedy as its first genre?
+The Avengers,yes,no,yes,no,no
+Frozen,no,yes,yes,no,no
+Sleeping Beauty,no,yes,no,yes,no
+Fantasia,yes,yes,yes,yes,no
+The Martian,yes,no,no,no,no
+Pitch Perfect,no,no,yes,no,yes
+Iron Man,yes,no,yes,yes,no
+Ant-Man,no,no,yes,no,no
